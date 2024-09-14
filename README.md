@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Maria Cecilia Gouveia Lucena
+* Email (@ccc): maria.cecilia.gouveia.lucena@ccc.ufcg.edu.br
+* Matrícula: 123110814
 
 # Roteiro: Fila de Prioridade
 
